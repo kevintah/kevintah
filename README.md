@@ -1,12 +1,10 @@
 ### Hi there 👋
-**kevintah/kevintah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Physics 
+- 🔭 I’m currently working on Physics/Engineering related things
 - 🌱 I’m currently learning data science
-- 👯 I’m looking to collaborate on whatever
-- 🤔 I’m looking for help with one of my projects. Check out the repository called Hopen
+- 👯 I’m looking to collaborate on whatever --  let me know
+- 🤔 I’m looking for help with one of my projects. Check out the repository called <a Hopen src="https://github.com/kevintah/Hopen" alt="Hopen" /></a>
 - 💬 Ask me about anything
 - 📫 How to reach me: kevintah@yahoo.com; Call me at 818-310-5698
 - 😄 Pronouns: he/him/his
