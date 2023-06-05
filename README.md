@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 **kevintah/kevintah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,8 +10,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: kevintah@yahoo.com; Call me at 818-310-5698
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I
--->
+- ⚡ Fun fact: I can do back flips
+
 
 
 <h3 align="left">Connect with me:</h3>
