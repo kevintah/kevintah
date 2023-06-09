@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Physics/Engineering related things
+- 🔭 I’m currently working on Physics/Engineering related projects
 - 🌱 I’m currently learning data science
 - 👯 I’m looking to work and collaborate on projects
 - 🤔 I’m looking for help with one of my projects. Check out the repository called  [Hopen](https://github.com/kevintah/Hopen)
