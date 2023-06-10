@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning data science
 - 👯 I’m looking to work and collaborate on projects
 - 🤔 I’m looking for help with one of my projects. Check out the repository called  [Hopen](https://github.com/kevintah/Hopen)
-- 💬 I'm open to business inquiries
+- 💬 I'm open to business inquiries. Call me, 818-310-5698
 - 📫 How to reach me: kevintah@yahoo.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I can do backflips
