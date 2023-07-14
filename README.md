@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on Physics/Engineering related projects
 - 🌱 I’m currently learning data science
+- 🌱 I’m also learning cybersecurity (cyber security )
 - 👯 I’m looking to work and collaborate on projects
 - 🤔 I’m looking for help with one of my projects. Check out the repository called  [Hopen](https://github.com/kevintah/Hopen)
 - 💬 I'm open to business inquiries. Call me, 818-310-5698
