@@ -11,6 +11,30 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I can do backflips
 
+  <b>Don't hesitate to send me important information<\b>
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: User-ID:	Njokom, Kevin T <knjokom@calstatela.edu>
+Comment: Valid from:	2/5/2024 6:40 AM
+Comment: Valid until:	2/5/2027 12:00 PM
+Comment: Type:	255-bit EdDSA (secret key available)
+Comment: Usage:	Signing, Encryption, Certifying User-IDs
+Comment: Fingerprint:	A262DA8A3E9DC306762BB61C9C9CCDDE840D0C18
+
+
+mDMEZcDzTxYJKwYBBAHaRw8BAQdAnoNdXPUvpxNWk580eyaA+w7WWl4dym5SgSZm
+zy9dyGS0KE5qb2tvbSwgS2V2aW4gVCA8a25qb2tvbUBjYWxzdGF0ZWxhLmVkdT6I
+mQQTFgoAQRYhBKJi2oo+ncMGdiu2HJyczd6EDQwYBQJlwPNPAhsDBQkFpTbxBQsJ
+CAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJEJyczd6EDQwYfYwBAPswWFZ4EnU1
+YzI/CC/YwJIqauHm5XLrVfPS/+3/DPrXAQDsZPMAYmf1kFNwQ4/oLKzS2s+Tb78b
+E4SaJvck8EDbDbg4BGXA808SCisGAQQBl1UBBQEBB0C+Jb19G1GR10wy8mt2M+Nx
+qFnh1x9mKWa7WWv8BojAMgMBCAeIfgQYFgoAJhYhBKJi2oo+ncMGdiu2HJyczd6E
+DQwYBQJlwPNPAhsMBQkFpTbxAAoJEJyczd6EDQwY8jABANcKA1ohFJgViEfRLnav
+8IIl9ItJ31dZX/PS98VBqXjOAP9gT5Imm32HW+lArf39JllwTKX5mT/Aa84NHu55
+ogtrDA==
+=s+Un
+-----END PGP PUBLIC KEY BLOCK-----
+
 
 
 <h3 align="left">Connect with me:</h3>
